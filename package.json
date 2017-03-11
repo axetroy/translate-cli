@@ -10,8 +10,12 @@
     "type": "git",
     "url": "git+https://github.com/axetroy/translate-pipe.git"
   },
-  "author": "",
-  "license": "ISC",
+  "keywords": [
+    "translate",
+    "cli"
+  ],
+  "author": "Axetroy",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/axetroy/translate-pipe/issues"
   },
@@ -19,6 +23,7 @@
     "translate": "./bin/translate"
   },
   "homepage": "https://github.com/axetroy/translate-pipe#readme",
+  "preferGlobal": true,
   "dependencies": {
     "bluebird": "^3.5.0",
     "co": "^4.6.0",
