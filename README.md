@@ -15,7 +15,7 @@ npm install @axetroy/translate-cli -g
 ```
 $ translate -h
 
-  Usage: translate <content> [options]
+  Usage: translate [content] [options]
 
   Options:
 
@@ -26,6 +26,9 @@ $ translate -h
 ```
 
 ```bash
+$ translate
+# translate REPL, will translate automatically, just need you type word then [Enter]
+
 $ translate 你好世界
 # output >>> Hello world
 
