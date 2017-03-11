@@ -1,7 +1,7 @@
 {
-  "name": "translate-cli",
+  "name": "@axetroy/translate-cli",
   "version": "0.1.0",
-  "description": "a cli for translate text in terminal",
+  "description": "A cli tool for translate text in terminal.",
   "main": "./lib/translate",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
