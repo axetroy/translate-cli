@@ -1,6 +1,6 @@
 {
   "name": "@axetroy/translate-cli",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "A cli tool for translate text in terminal.",
   "main": "./lib/translate",
   "scripts": {
