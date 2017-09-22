@@ -1,5 +1,7 @@
 ## translate-cli
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/axetroy/translate-cli.svg)](https://greenkeeper.io/)
+
 A cli tool for translate text in terminal.
 
 Use Baidu Translate API.
